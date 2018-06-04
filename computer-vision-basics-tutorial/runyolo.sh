@@ -1,0 +1,1 @@
+/Users/emwebaze/Work/Dev/darknet/darknet detect ./cfg/yolov3-tiny.cfg ./weights/yolov3-tiny.weights $1
