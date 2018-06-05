@@ -5,6 +5,6 @@ Also included the notebooks for the introductory lectures on computer vision - b
 
 ![](outputgif.gif)
 
-1. [Notebook on basics](computer-vision-basics-tutorial/DSA-2018-Computer Vision.ipynb) of cv using skimage and yolo
-2. [YOlO v3 implementation](computer-vision-basics-tutorial/Running Yolo3 with Python.ipynb) 
+1. [Notebook on basics](computer-vision-basics-tutorial/DSA-2018-Computer-Vision.ipynb) of cv using skimage and yolo
+2. [YOlO v3 implementation](computer-vision-basics-tutorial/Running-Yolo3-with-Python.ipynb) 
  in Python
